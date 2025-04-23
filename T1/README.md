@@ -74,7 +74,7 @@ t1
 
 ## Execução automatizada com script
 
-Um script (`run.sh`) foi criado para automatizar a compilação e correção:
+Um script (`run.sh`) foi criado para automatizar a compilação e correção. Certifique-se de estar na raíz do diretório para executá-lo:
 
 ### Como usar:
 
