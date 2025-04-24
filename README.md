@@ -12,7 +12,7 @@ A seguir, listamos cada trabalho com uma breve descrição e o link corresponden
 ---
 
 ## T1 – Analisador Léxico com ANTLR para a linguagem LA  
-Implementação de um **analisador léxico** para a linguagem LA. O analisador foi gerado com o uso da ferramenta **ANTLR (Another Tool for Language Recognition)** e é capaz de ler um programa-fonte e produzir uma lista de tokens identificados.
+Implementação de um **analisador léxico** para a linguagem LA. O analisador foi gerado com o uso da ferramenta **ANTLR (Another Tool for Language Recognition)** e é capaz de ler um programa-fonte e produzir uma lista de tokens identificados.  
 📂 [Repositório do T1](https://github.com/gustavolhonda/COMPILADORES-2025/tree/main/T1)
 
 ---
