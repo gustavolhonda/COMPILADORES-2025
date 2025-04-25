@@ -12,7 +12,7 @@ Este projeto implementa um analisador léxico para a linguagem LA, desenvolvido 
 
 Para compilar e executar este projeto, você precisa ter instalado:
 
-- Java 11 ou superior
+- Java 21 ou superior
 - Maven
 - GCC (usado pelo corretor automático)
 - ANTLR (opcional, se quiser gerar os arquivos a partir do `.g4`)
