@@ -1,4 +1,4 @@
-# 📘 Trabalho 1 - Analisador Léxico 
+# 📘 Trabalho 2 - Analisador Sintático 
 
 Este projeto implementa um analisador sintático para a linguagem LA, desenvolvido como parte da disciplina de Compiladores. O analisador foi construído utilizando [ANTLR4](https://www.antlr.org/) e empacotado via [Maven](https://maven.apache.org/).
 
